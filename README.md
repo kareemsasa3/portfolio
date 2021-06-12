@@ -45,6 +45,5 @@ You will also see any lint errors in the console.
 │   │   └── Section.js
 │   │   └── UnorderedList.js
 │   └── App.js
-│   └── index.js
-└── node_modules
+└────── index.js
 ```
